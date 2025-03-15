@@ -26,12 +26,12 @@ Com os seguintes dados:
 
 ```
 {
-    "nome": "vinicios neves",
-    "email": "vinicios@alura.com.br",
+    "nome": "gavin eduardo",
+    "email": "gavin@mail.com.br",
     "senha": "123456",
-    "endereco": "Rua Vergueiro, 3185",
-    "complemento": "Vila Mariana",
-    "cep": "04101-300"
+    "endereco": "Rua Maelete Cortez, 178",
+    "complemento": "Veneza",
+    "cep": "63504365"
 }
 ```
 
@@ -50,7 +50,7 @@ Com os seguintes dados:
 
 ```
 {
-  "email": "vinicios@alura.com.br",
+  "email": "gavin@mail.com.br",
   "senha":"123456"
 }
 ```
